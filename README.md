@@ -1,2 +1,4 @@
 # ms-global-footprints-download
-Script para download de prédios do dataset GlobalMLBuildingFootprints em formato shapefile
+Cópia pessoal de script para download de prédios do dataset GlobalMLBuildingFootprints em formato shapefile
+
+Fonte: https://github.com/microsoft/GlobalMLBuildingFootprints
